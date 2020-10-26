@@ -9,8 +9,8 @@ using PedidosSuplidores.DAL;
 namespace PedidosSuplidores.Migrations
 {
     [DbContext(typeof(Contexto))]
-    [Migration("20201024222820_Initial")]
-    partial class Initial
+    [Migration("20201026225633_Inicial")]
+    partial class Inicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
